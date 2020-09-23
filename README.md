@@ -10,4 +10,4 @@ I exercised my use of Google-fu (I guess even YouTube-fu?) to gather different e
 
 It wasn't easy though. My main problem was trying to get the 'Hero' text on my 'Home' page to fit within the dimensions of an iPhone, or any other mobile device. Eventually, with the help of my tutor, Mansi, we figured it out together and I am now extremely proud of what I was able to put together.
   
-Although the website isn't exactly 'professional' in my opinion, it just gives me more motivation to aquire more knowledge from this class so I can eventually deem it so.
+Although the website isn't exactly 'professional' in my opinion- I know I used too many <br> tags- it just gives me more motivation to aquire more knowledge from this class so I can eventually deem it so.
