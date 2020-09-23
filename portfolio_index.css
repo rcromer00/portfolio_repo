@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.title {
+    background-color: #111;
+    background-size: cover;
+    font-family: "Raleway",sans-serif;
+    text-align: center;
+    color: #FFF;
+    display: grid;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    letter-spacing: 1px;
+    overflow: auto;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+h1 {
+    background-image: url(https://media0.giphy.com/media/KDteAGZcv7LiehlTDm/giphy.gif?cid=ecf05e47ixds2uabhatkp7mi19re6qcncuznnpl3werc97u6&rid=giphy.gif);
+    background-size: contain;
+    color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+    font-size: 120px;
+    line-height: .75;
+    margin: 10px;
+    text-align: center;       
+}
+
+/*About Me*/
+
+aside {
+  background: white;
+  background-size: auto;
+  padding-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-family:'ABeeZee', sans-serif;
+    font-size:40pt
+}
+
+.container img {
+    border: 5px solid rgb(0, 0, 0);
+    width: 300px;       
+    height: 400px;
+    float: left;
+}
+
+article {
+    text-align: center;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 20pt;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.title-jumbotron-fluid {
+  width: 300%;
+}
+
+.gif {
+  background-image: url(https://media0.giphy.com/media/KDteAGZcv7LiehlTDm/giphy.gif?cid=ecf05e47ixds2uabhatkp7mi19re6qcncuznnpl3werc97u6&rid=giphy.gif);
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 120px;
+}
+
+/* Footer Social Media Icons*/
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+/*Instagram*/
+.fa-instagram{
+  background: rgb(255, 0, 140);
+  color: white;
+}
+/*YouTube*/
+.fa-youtube {
+  background: red;
+  color: white;
+}
+
+/*Footer*/
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#111;
+  text-align: center;
+}
+
+/*Navbar*/
+nav {
+  font-family: "ABeeZee", sans-serif;
+}
+
+.navbar {
+  color: white;
+  margin-bottom: 0px;
+}
+
+.navbar-custom{
+  background-color: #111;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+.custom-toggler.navbar-toggler {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+@media only screen and (max-width: 576px) {
+h1{
+font-size: 50px;
+}
+
+.title{
+height:50vh;
+}
+}
