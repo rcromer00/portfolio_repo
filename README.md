@@ -1,5 +1,7 @@
 # portfolio_repo
 
+Link to deployed application: https://rcromer00.github.io/portfolio_repo/
+
 I had a blast working on this project! 
 
 This project is actually something I have been working on before I actually knew it was homework, I just wanted to put the knowledge that we had learned in class to the test.
