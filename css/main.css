@@ -981,9 +981,10 @@ Single Page
 }
 /*
 =============== 
-Products Page
+Projects Page
 ===============
 */
+
 .projects-hero {
 	height: 40vh;
 	background: var(--clr-primary-9);
@@ -994,7 +995,7 @@ Products Page
 	margin-bottom: 0;
 }
 .single-project {
-	background: var(--clr-grey-10);
+	background: var(--clr-white);
 	border-radius: var(--radius);
 }
 .project-container img {
